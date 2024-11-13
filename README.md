@@ -56,7 +56,7 @@ Billing page
 Netbeans work space
 ![Screenshot 2024-10-29 084705](https://github.com/user-attachments/assets/60d51ac7-2fa1-47cb-b30f-4f7092dd7f58)
 
-SNF SUPER data base in side the php my admin
+SNF SUPER database inside php my admin
 ![Screenshot 2024-10-29 084802](https://github.com/user-attachments/assets/96051b5e-ca72-4d66-994b-851a1307a385)
 
 
