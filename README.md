@@ -6,7 +6,7 @@ The supermarket system full access provided for the admins of the system and the
 
 There are;
 
-            1.  Loading Page = To running loading animation and it move to the login page 
+            1.  Running Page = To running loading animation and it move to the login page 
             
             2.  Loging Page =  First the user can choose their job role and to insert the user login information to the system 
             
