@@ -23,8 +23,9 @@ There are;
             8.  Admin Page = This page major purpose is update the admin details from the system
 
 
-Screen shots of the SNF SUPER
+Screen Shots of the SNF SUPER
 
+Running Page Design
 ![Screenshot 2024-10-29 084318](https://github.com/user-attachments/assets/f77ea02b-bc7a-4814-8a75-80f17e60221d)
 
 ![Screenshot 2024-10-29 084412](https://github.com/user-attachments/assets/07fd594f-f296-4996-ba76-0dedbe2e6baf)
